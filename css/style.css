@@ -17,9 +17,14 @@ header {
     position: relative;
 }
 
+img {
+    display: inline-block;
+    vertical-align: middle;
+}
+
 h1 {
     display: inline-block;
-    position: absolute;
+    vertical-align: middle;
     margin-left: 5px;
 }
 
