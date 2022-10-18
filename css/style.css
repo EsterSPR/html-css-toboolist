@@ -22,3 +22,45 @@ h1 {
     position: absolute;
     margin-left: 5px;
 }
+
+nav {
+    width: 70%;
+    background-color: #fff;
+    border-radius: 15px 15px 2px 2px;
+    padding: 20px 50px;
+    margin: 40px 15% 0 15%;
+}
+
+main {
+    width: 70%;
+    background-color: #fff;
+    border-radius: 2px 2px 15px 15px;
+    padding: 20px 50px;
+    margin: 5px 15% 0 15%;
+}
+
+section {
+    margin: 30px 0;
+}
+
+button {
+    padding: 7px 15px;
+    border-radius: 5px;
+}
+
+#button-blue {
+    background-color: #47ADF1;
+    color: #fff;
+    border: none;
+}
+
+#button-white {
+    color: #D3D8DC;
+    border: 1px solid #D3D8DC;
+    background-color: #fff;
+}
+
+hr {
+    color: #D3D8DC;
+    width: 100%;
+}
