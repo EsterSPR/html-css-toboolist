@@ -104,3 +104,27 @@ section > button {
     border-radius: 7px;
     color: #fff;
 }
+
+.editorial {
+    background-color: #47ADF1;
+}
+
+.q1goals {
+    background-color: #9C72E4;
+}
+
+.recruiting {
+    background-color: #65C0A9;
+}
+
+.mobile {
+    background-color: #F29E33;
+}
+
+.website {
+    background-color: #D863A1;
+}
+
+.sales {
+    background-color: #B0C927;
+}
